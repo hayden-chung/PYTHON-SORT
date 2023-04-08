@@ -13,7 +13,6 @@ output = []
 min = 123013
 min_idx = None
 for headidx, item in enumerate(arr):
-    for 
     if item < min: 
         min = item
         min_idx = idx
